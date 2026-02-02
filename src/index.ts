@@ -20,5 +20,5 @@ export type {
 export { getContentType, generateFileName } from './utils/content-type';
 
 // NestJS Module (optional - only if NestJS is installed)
-export { GoogleDriveModule } from './nestjs/GoogleDriveModule';
-export { GoogleDriveService } from './nestjs/GoogleDriveService';
+// export { GoogleDriveModule } from './nestjs/GoogleDriveModule';
+// export { GoogleDriveService } from './nestjs/GoogleDriveService';
